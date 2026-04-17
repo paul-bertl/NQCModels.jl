@@ -63,7 +63,7 @@ function OptimErpenbeckThoss(
                                 austrip(a′),
                                 austrip(c),
                                 austrip(V∞),
-                                austrip(q),
+                                q,
                                 austrip(ã),
                                 austrip(x̃),
                                 austrip(V̄ₖ) )
