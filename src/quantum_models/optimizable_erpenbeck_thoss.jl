@@ -56,7 +56,7 @@ function OptimErpenbeckThoss(
     end
     
     return OptimErpenbeckThoss( austrip(Γ),
-                                austrip(morse),
+                                morse,
                                 austrip(D₁),
                                 austrip(D₂),
                                 austrip(x₀′),
