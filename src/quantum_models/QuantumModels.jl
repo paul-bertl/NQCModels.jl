@@ -165,6 +165,9 @@ export BosonBath
 include("erpenbeck_thoss.jl")
 export ErpenbeckThoss
 
+include("optimizable_erpenbeck_thoss.jl")
+export OptimErpenbeckThoss
+
 include("anderson_haldane.jl")
 export AndersonHaldane
 
